@@ -21,7 +21,7 @@ private final static Logger LOG = LogManager.getLogger("Основной кла�
 
 
 
-
+// тест коммент
 
       /*  int[][] ints = new int[3][2];
         ints[0][0] = 1;
